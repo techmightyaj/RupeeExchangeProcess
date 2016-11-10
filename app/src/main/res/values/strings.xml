@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Black Money</string>
+
+    <string name="banner_id">ca-app-pub-8369276720624051/9349940525</string>
+    <string name="inter_id">ca-app-pub-8369276720624051/1826673720</string>
+
+    <string-array name="titles">
+        <item>Here\'s what you need to do with your 500 and 1000 rupee notes.</item>
+        <item>Your 500 and 1000 rupee notes be accepted till November 11 at:</item>
+        <item>New Note of 500 and 2000</item>
+        <item>Toll To Accept Demonetised till Nov 11.</item>
+        <item>Bogus Loan Entry</item>
+        <item>Formulation of Trust and doing Charity</item>
+        <item>Showing Income as Agriculture Income</item>
+        <item>Showing Cash Income from Profession</item>
+        <item>Sale of personal belonging like Jewelry</item>
+        <item>Converting Black money by Investment</item>
+        <item>Getting Black money as gift</item>
+        <item>Depositing Black Money on name of Family members</item>
+        <item>By Real Estate</item>
+        <item>By Declaring Black Money</item>
+        <item>Disclaimer –</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>&#8226;Deposit them at the bank or post office from November 10 to December 30 \n\n
+            &#8226;Exchange them from a bank or post office till 24 November. The limit for exchange is Rs. 4000 \n\n
+            &#8226;Take Aadhaar card and PAN Card when you go to exchange notes \n\n
+            &#8226;After December 30, these can be deposited at the Reserve Bank with a declaration \n\n
+            &#8226;Tourists can change the notes at airports</item>
+
+        <item>&#8226;Petrol Pumps and government hospitals \n\n
+            &#8226;Railway, airline, government bus  ticket booking counters\n\n
+            &#8226;Consumer co-operative stores run by state or central government\n\n
+            &#8226;Milk booths authorized by state governments\n\n
+            &#8226;Crematoriums and burial grounds</item>
+
+        <item>&#8226;NEW DELHI: Prime Minister Narendra Modi on Tuesday announced that currency notes of Rs 500 and Rs 1,000 denominations will cease to hold any legal tender at midnight, from November 9.
+PM Modi said the drastic step is aimed at rendering large reserves of black money invalid. The move, PM Modi said, is meant to curb the negative effects of corruption, black money, fake currency and terrorism on the country\'s economy.
+He also announced that the Reserve Bank of India would soon release and circulate new notes of Rs 500 and Rs 2,000. Here\'s what it look like </item>
+
+        <item>The government today allowed toll plazas\' operators to accept the demonetised currency notes of Rs 500 and Rs 1,000 denomination till the midnight of November 11.
+According to the Ministry of Road Transport and Highways, the National Highways Authority of India (NHAI) has instructed all the operators to accept the currency notes of Rs 500 and Rs 1,000 denominations.
+The ministry added that orders have been issued to avoid difficulties that may be faced by the highway users following the demonetisation of the Rs 500 and Rs 1,000 notes by the Finance Ministry from midnight Tuesday.</item>
+
+        <item>Popular method people use to convert black money to white is by showing bogus loan entry. Modus operandi under this case will be people give black money to friend or relative and take a cheque from them. This is kind of bogus loan entry to convert black money to white.
+In some cases people give repayment of this loan by giving back cheque. People doing this must understand that Income tax department is watching every transaction and tax payer have to prove genuineness of every transaction.
+        <href>Also Read – Tax Avoidance and Black Money are common in India</href></item>
+
+        <item>Another popular way used by people to convert black money to white is by formulating trust for social cause. They make executive bodies of own people in trust sometimes illiterate people like driver cook etc. They donate black money to this trust as charity to convert black money.
+On paper it is charity but off the shelf it is conversion of black money to white.</item>
+
+        <item>Another popular way of converting black money in to white is by showing income as agriculture income. In order to show income as agriculture income you must possess land and it must be used for agriculture purpose like plantation, garden nursery etc.
+However there are various conditions you need to satisfy in order to claim agriculture income.</item>
+
+        <item>Another popular way to convert black money to white is by showing income in cash. Income from tuition, professional fees or commission is shown as cash by many tax payers it is nothing but converting black money in white.<href>Also Read – How Salaried Person can maximize tax saving?</href></item>
+
+        <item>Go to known jeweler and give him all black money you want to convert. He will give you cheque for the same amount. He will also give you purchase bill showing you sold your personal Jewelry to him. By this way your Black money is converted to white and you need not to pay capital gain tax even.</item>
+
+        <item>Another method people use to convert black money to white is by making investment in cash.People purchase insurance policy and pay premium in cash. For example if insurance premium is 50000 Rs/- payable quarterly, than people pay first premium via cheque and rest all premium in cash. This is most simple and popular way to convert black money in white.</item>
+
+        <item>Another popular way to convert black money to white is by getting gift from relative. Modus operandi is simple you have black money and your relative has the same amount of white money. Your relative issues cheque to you as gift and you will give your black money to him/her.</item>
+
+        <item>Another popular method for converting black money to white is to open bank account on each and every individual family member. Deposit black money on the name of every family member to convert it in white.</item>
+
+        <item>Real estate is sector where majority of black money is parked. People use real estate deals to convert black money to white. It is observed that people do fake real estate deal exchange money and cancel these deals due to non-payment of money.</item>
+
+        <item>Best method for converting black money to white as per me is by declaring this money to IT authorities and paying tax on this money to convert it in white.</item>
+
+        <item>I don’t recommend readers to follow any of these methods for black money conversion. This article is just for exposing loop holes of our system. I am against black money and black money generation ideas.</item>
+
+    </string-array>
+</resources>
